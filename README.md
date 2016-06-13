@@ -1,4 +1,6 @@
-# Altruism Simulation
+# Replication Materials
+This repository contains the replication materials for my working paper: 'One for all and all for one? Altruistic behavior, population size and network topology'.
+
 R is the program of choice for this simulation. There are only two scripts:
 
 'Markus_597_simulation.R' can be used to recreate any of the results by inputting the correct parameters (lines 40 to 56). At the end of the script, thee results should be saved with an appropriate name.
