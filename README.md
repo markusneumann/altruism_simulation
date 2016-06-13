@@ -1,9 +1,6 @@
 # Altruism Simulation
 R is the program of choice for this simulation. There are only two scripts:
 
-Markus_597_simulation.R
-Markus_597_figures.R
-
 'Markus_597_simulation.R' can be used to recreate any of the results by inputting the correct parameters (lines 40 to 56). At the end of the script, thee results should be saved with an appropriate name.
 The second R-script ('Markus_597_figures.R') takes these results and turns them into the figures in the paper.
 
