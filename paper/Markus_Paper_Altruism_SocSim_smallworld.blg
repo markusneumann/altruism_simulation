@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Markus_Paper_Altruism_SocSim_smallworld.aux
+The style file: apsr.bst
+Database file #1: Markus_Altruism_Bib.bib
+You've used 16 entries,
+            2874 wiz_defined-function locations,
+            753 strings with 7047 characters,
+and the built_in function-call counts, 77538 in all, are:
+= -- 12790
+> -- 924
+< -- 0
++ -- 6083
+- -- 324
+* -- 6721
+:= -- 15378
+add.period$ -- 64
+call.type$ -- 16
+change.case$ -- 209
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 246
+empty$ -- 551
+format.name$ -- 340
+if$ -- 13947
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 69
+num.names$ -- 186
+pop$ -- 60
+preamble$ -- 1
+purify$ -- 240
+quote$ -- 0
+skip$ -- 218
+stack$ -- 0
+substring$ -- 18189
+swap$ -- 39
+text.length$ -- 224
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 62
+warning$ -- 0
+while$ -- 382
+width$ -- 0
+write$ -- 222
