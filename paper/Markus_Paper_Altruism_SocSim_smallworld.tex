@@ -268,27 +268,6 @@ In conclusion, my research contributes to the extant literature by improving the
 \section*{Supplemental Information}
 The following pseudo-code provides a simplified overview of the simulation.\footnote{The full replication code is located at: \url{https://github.com/markusneumann/altruism_simulation}} Algorithm \ref{Algorithm1} details the overarching framework of the simulation. First, a Watts-Strogatz network is created according to a set of parameters: population size $N$, rewiring probability $p$ and neighborhood coefficient $l$. If any of the players are isolates (i.e. they have no connections), the network is re-generated until all players are properly connected. Then, 100 generations of the population 'live their lives'. Each of these consist of 10 rounds. In every one of these rounds, the donation game, specified in algorithm \ref{Algorithm2}, is played. After the completion of this stage, information about the players' actions is spread through the population according to algorithm \ref{Algorithm4}. Once 10 such rounds have concluded, the number of players using each strategy is recorded. For example, after 15 generations in a Watts-Strogatz network, the strategy $k=0$ is used by 25 players. Ergo, 8.3 percent ($25/300=0.083$) is the y-value for $k=0$ at $x=15$ in figure \ref{WS_300_default}. Finally, the players replicate, as denoted in algorithm \ref{Algorithm4}.
 
-%\begin{algorithm}
-%	\caption{Euclid’s algorithm}
-%	\label{euclid}
-%	\begin{algorithmic}[1] % The number tells where the line numbering should start
-%		\Function{Euclid}{$a,b$} \Comment{The g.c.d. of a and b}
-%		\State $r\gets a \bmod b$
-%		\While{$r\not=0$} \Comment{We have the answer if r is 0}
-%		\State $a \gets b$
-%		\State $b \gets r$
-%		\State $r \gets a \bmod b$
-%		\EndWhile\label{euclidendwhile}
-%		\State \textbf{return} $b$\Comment{The gcd is b}
-%		\EndFunction
-%	\end{algorithmic}
-%\end{algorithm}
-
-%\begin{algorithmic}
-%	%\Function{Simulation}
-%	\STATE $S \leftarrow 0$
-%\end{algorithmic}
-
 \begin{algorithm}
 	\caption{Simulation}
 	\label{Algorithm1}
