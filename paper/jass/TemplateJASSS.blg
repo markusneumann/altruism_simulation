@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TemplateJASSS.aux
+Case mismatch error between cite keys hamilton1964_2 and Hamilton1964_2
+---line 39 of file TemplateJASSS.aux
+ : \citation{hamilton1964_2
+ :                         }
+I'm skipping whatever remains of this command
+The style file: jasss.bst
+Database file #1: Neumann_Altruism_Bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 16 entries,
+            3029 wiz_defined-function locations,
+            738 strings with 7404 characters,
+and the built_in function-call counts, 9813 in all, are:
+= -- 830
+> -- 346
+< -- 12
++ -- 134
+- -- 118
+* -- 746
+:= -- 1472
+add.period$ -- 40
+call.type$ -- 16
+change.case$ -- 121
+chr.to.int$ -- 17
+cite$ -- 16
+duplicate$ -- 728
+empty$ -- 777
+format.name$ -- 167
+if$ -- 1930
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 143
+newline$ -- 107
+num.names$ -- 64
+pop$ -- 271
+preamble$ -- 1
+purify$ -- 103
+quote$ -- 0
+skip$ -- 287
+stack$ -- 0
+substring$ -- 480
+swap$ -- 390
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 0
+while$ -- 73
+width$ -- 0
+write$ -- 240
+(There was 1 error message)
