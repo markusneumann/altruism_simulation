@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Markus_Paper_Altruism_SocSim_smallworld.aux
 The style file: apsr.bst
 Database file #1: Markus_Altruism_Bib.bib
-You've used 16 entries,
+You've used 36 entries,
             2874 wiz_defined-function locations,
-            753 strings with 7047 characters,
-and the built_in function-call counts, 77538 in all, are:
-= -- 12790
-> -- 924
+            891 strings with 10563 characters,
+and the built_in function-call counts, 175264 in all, are:
+= -- 28882
+> -- 2176
 < -- 0
-+ -- 6083
-- -- 324
-* -- 6721
-:= -- 15378
-add.period$ -- 64
-call.type$ -- 16
-change.case$ -- 209
-chr.to.int$ -- 15
-cite$ -- 16
-duplicate$ -- 246
-empty$ -- 551
-format.name$ -- 340
-if$ -- 13947
++ -- 13763
+- -- 758
+* -- 15237
+:= -- 34765
+add.period$ -- 145
+call.type$ -- 36
+change.case$ -- 469
+chr.to.int$ -- 35
+cite$ -- 36
+duplicate$ -- 554
+empty$ -- 1220
+format.name$ -- 795
+if$ -- 31527
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 69
-num.names$ -- 186
-pop$ -- 60
+missing$ -- 37
+newline$ -- 154
+num.names$ -- 421
+pop$ -- 122
 preamble$ -- 1
-purify$ -- 240
+purify$ -- 540
 quote$ -- 0
-skip$ -- 218
+skip$ -- 492
 stack$ -- 0
-substring$ -- 18189
-swap$ -- 39
-text.length$ -- 224
+substring$ -- 40997
+swap$ -- 85
+text.length$ -- 504
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 62
+type$ -- 140
 warning$ -- 0
-while$ -- 382
+while$ -- 862
 width$ -- 0
-write$ -- 222
+write$ -- 505
