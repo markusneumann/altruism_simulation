@@ -1,5 +1,6 @@
 library(igraph)
 library(ggplot2)
+set.seed(1)
 
 #Simulate 1000 networks with varying values of p
 #Then calculate measures of centrality
@@ -49,4 +50,5 @@ ggplot(df_cent, aes(x = p, y = eigenvectorCentralityVar)) + geom_point()
 ggplot(df_cent, aes(x = p, y = betweennessCentralityVar)) + geom_point()
 #Modularity
 ggplot(df_cent, aes(x = p, y = Modularity)) + geom_point() + xlab("p (Rewiring probability)") + theme_bw()
-ggsave(filename="./figures/illustrateWS_p_modularity.pdf", width = 8, height = 6, dpi = 100, units = "in")
+ggsave(filename="../figures/illustrateWS_p_modularity.pdf", width = 8, height = 6, dpi = 100, units = "in")
+ggsave(filename="../figures/illustrateWS_p_modularity.png", width = 8, height = 6, dpi = 100, units = "in")
