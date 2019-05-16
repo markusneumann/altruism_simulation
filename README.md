@@ -1,2 +1,2 @@
 # Replication Materials
-This repository contains the replication materials for my working paper: 'One for all and all for one? Altruistic behavior, population size and network topology'.
+This repository contains the replication materials for my working paper: 'Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks'.
