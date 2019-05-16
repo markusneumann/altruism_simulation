@@ -18,6 +18,7 @@ colNodes <- colfunc(12)[img[,nodeOfInterest]+5]
 colNodes[img[,nodeOfInterest]==0] <- "#808080"
 colNodes[nodeOfInterest] <- "#0000ff"
 pdf(file = "../figures/illustration_Contagion.pdf", width = 12, height = 12)
+png(file = "../figures/illustration_Contagion.pdf", width = 800, height = 800)
 set.seed(1)
 plot(g, vertex.size=6, vertex.label=NA, vertex.color=colNodes) #alternatively, vertex.size=(degree(g))*0.6
 dev.off()

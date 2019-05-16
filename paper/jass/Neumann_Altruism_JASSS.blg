@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Neumann_Altruism_JASSS.aux
+The style file: jasss.bst
+Database file #1: Neumann_Altruism_Bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 36 entries,
+            3029 wiz_defined-function locations,
+            889 strings with 11224 characters,
+and the built_in function-call counts, 22317 in all, are:
+= -- 1883
+> -- 810
+< -- 25
++ -- 313
+- -- 277
+* -- 1724
+:= -- 3330
+add.period$ -- 92
+call.type$ -- 36
+change.case$ -- 275
+chr.to.int$ -- 37
+cite$ -- 36
+duplicate$ -- 1674
+empty$ -- 1751
+format.name$ -- 398
+if$ -- 4382
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 331
+newline$ -- 233
+num.names$ -- 144
+pop$ -- 615
+preamble$ -- 1
+purify$ -- 236
+quote$ -- 0
+skip$ -- 650
+stack$ -- 0
+substring$ -- 1029
+swap$ -- 917
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 410
+warning$ -- 0
+while$ -- 166
+width$ -- 0
+write$ -- 537
