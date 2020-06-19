@@ -1,0 +1,254 @@
+PWD i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.tex
+OUTPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.log
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.cls
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sourcesanspro\sourcesanspro.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sourcesanspro\sourcesanspro.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\ly1\ly1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ly1enc.dfu
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ly1enc.dfu
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sourcesanspro\t1sourcesanspro-tlf.fd
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sourcesanspro\t1sourcesanspro-tlf.fd
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\authblk.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\authblk.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\endnotes\endnotes.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\endnotes\endnotes.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\float\float.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux
+OUTPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+OUTPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.pdf
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.png
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\bar.png
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+OUTPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
+INPUT figures\illustration_Contagion.png
+INPUT .\figures\illustration_Contagion.png
+INPUT .\figures\illustration_Contagion.png
+INPUT .\figures\illustration_Contagion.png
+INPUT .\figures\illustration_Contagion.png
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
+INPUT figures\illustrateWS_p_modularity.png
+INPUT .\figures\illustrateWS_p_modularity.png
+INPUT .\figures\illustrateWS_p_modularity.png
+INPUT .\figures\illustrateWS_p_modularity.png
+INPUT .\figures\illustrateWS_p_modularity.png
+INPUT figures\illustrationWS_p005.png
+INPUT .\figures\illustrationWS_p005.png
+INPUT .\figures\illustrationWS_p005.png
+INPUT .\figures\illustrationWS_p005.png
+INPUT .\figures\illustrationWS_p005.png
+INPUT figures\illustrationWS_p03.png
+INPUT .\figures\illustrationWS_p03.png
+INPUT .\figures\illustrationWS_p03.png
+INPUT .\figures\illustrationWS_p03.png
+INPUT .\figures\illustrationWS_p03.png
+INPUT figures\results_WS_N300_p02.png
+INPUT .\figures\results_WS_N300_p02.png
+INPUT .\figures\results_WS_N300_p02.png
+INPUT .\figures\results_WS_N300_p02.png
+INPUT .\figures\results_WS_N300_p02.png
+INPUT figures\results_WS_N300_truthful_new_default.png
+INPUT .\figures\results_WS_N300_truthful_new_default.png
+INPUT .\figures\results_WS_N300_truthful_new_default.png
+INPUT .\figures\results_WS_N300_truthful_new_default.png
+INPUT .\figures\results_WS_N300_truthful_new_default.png
+INPUT figures\results_WS_N300_truthful_new_vary_p.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p.png
+INPUT figures\results_N20000_truthful_new.png
+INPUT .\figures\results_N20000_truthful_new.png
+INPUT .\figures\results_N20000_truthful_new.png
+INPUT .\figures\results_N20000_truthful_new.png
+INPUT .\figures\results_N20000_truthful_new.png
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.tfm
+INPUT figures\results_vary_mechanisms.png
+INPUT .\figures\results_vary_mechanisms.png
+INPUT .\figures\results_vary_mechanisms.png
+INPUT .\figures\results_vary_mechanisms.png
+INPUT .\figures\results_vary_mechanisms.png
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Bold-tlf-t1--base.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.vf
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1--base.tfm
+INPUT figures\results_WS_N300_truthful_new_vary_nei.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_nei.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_nei.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_nei.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_nei.png
+INPUT figures\results_WS_N300_truthful_new_vary_cb.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_cb.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_cb.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_cb.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_cb.png
+INPUT figures\results_WS_N300_truthful_new_vary_p_cb_1_10.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p_cb_1_10.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p_cb_1_10.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p_cb_1_10.png
+INPUT .\figures\results_WS_N300_truthful_new_vary_p_cb_1_10.png
+INPUT figures\results_default_10000_generations.png
+INPUT .\figures\results_default_10000_generations.png
+INPUT .\figures\results_default_10000_generations.png
+INPUT .\figures\results_default_10000_generations.png
+INPUT .\figures\results_default_10000_generations.png
+INPUT figures\results_1000_20000_truthful_new.png
+INPUT .\figures\results_1000_20000_truthful_new.png
+INPUT .\figures\results_1000_20000_truthful_new.png
+INPUT .\figures\results_1000_20000_truthful_new.png
+INPUT .\figures\results_1000_20000_truthful_new.png
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.bbl
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.bbl
+INPUT i:\Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\sourcesanspro\a_4jropk.enc
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\sourcesanspro\a_emkxm5.enc
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-Bold.pfb
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-Bold.pfb
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-It.pfb
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-It.pfb
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-Regular.pfb
+INPUT C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\fonts\type1\adobe\sourcesanspro\SourceSansPro-Regular.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
