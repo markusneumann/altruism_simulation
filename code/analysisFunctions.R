@@ -13,7 +13,7 @@ makeGenerationPlot <- function(resultsSims, nNodes, nGenerations, bw = F){
   #in black and white
   if(bw == T){
     g1 <- ggplot(results2, aes(Generation, Percentage, fill = strat)) +
-      xlim(0,100) + geom_line(aes(linetype = Strategy)) +
+      xlim(0,nGenerations) + geom_line(aes(linetype = Strategy)) +
       scale_fill_grey() + theme_bw() +
       scale_linetype_manual(values = c("solid", "dashed", "dotted"))
     return(g1)
@@ -21,7 +21,7 @@ makeGenerationPlot <- function(resultsSims, nNodes, nGenerations, bw = F){
   #in color
   if(bw == F){
     g1 <- ggplot(results2, aes(Generation, Percentage, colour = strat)) +
-      xlim(0,100) + geom_line() + 
+      xlim(0,nGenerations) + geom_line() + 
       scale_color_discrete(name = "Strategy") +
       theme_bw()
     g1
