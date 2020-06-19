@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.9)  19 JUN 2020 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.9)  19 JUN 2020 16:26
 entering extended mode
 **i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/Neumann_Altruism_JASSS.tex
 (i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/Neumann_Altruism_JASSS.tex
@@ -557,13 +557,13 @@ File: ./figures/illustration_Contagion.png Graphic file (type png)
 <use ./figures/illustration_Contagion.png>
 Package pdftex.def Info: ./figures/illustration_Contagion.png  used on input line 183.
 (pdftex.def)             Requested size: 455.24411pt x 455.25195pt.
- [4] [5 <./figures/illustration_Contagion.png>]
-<./figures/illustrateWS_p_modularity.png, id=31, 578.16pt x 433.62pt>
+ [4] [5 <./figures/illustration_Contagion.png (PNG copy)>]
+<./figures/illustrateWS_p_modularity.png, id=30, 578.16pt x 433.62pt>
 File: ./figures/illustrateWS_p_modularity.png Graphic file (type png)
 <use ./figures/illustrateWS_p_modularity.png>
 Package pdftex.def Info: ./figures/illustrateWS_p_modularity.png  used on input line 203.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/illustrationWS_p005.png, id=32, 803.0pt x 803.0pt>
+<./figures/illustrationWS_p005.png, id=31, 803.0pt x 803.0pt>
 File: ./figures/illustrationWS_p005.png Graphic file (type png)
 <use ./figures/illustrationWS_p005.png>
 Package pdftex.def Info: ./figures/illustrationWS_p005.png  used on input line 214.
@@ -573,23 +573,23 @@ Underfull \hbox (badness 1297) in paragraph at lines 214--214
 []\T1/SourceSansPro-TLF/regular/n/10 (a) |Watts-Strogatz net-work gen-er-ated with $\OML/cmm/m/it/10 p \OT1/cmr/m/n/10 =
  []
 
-<./figures/illustrationWS_p03.png, id=33, 803.0pt x 803.0pt>
+<./figures/illustrationWS_p03.png, id=32, 803.0pt x 803.0pt>
 File: ./figures/illustrationWS_p03.png Graphic file (type png)
 <use ./figures/illustrationWS_p03.png>
 Package pdftex.def Info: ./figures/illustrationWS_p03.png  used on input line 216.
 (pdftex.def)             Requested size: 209.41534pt x 209.41222pt.
-<./figures/results_WS_N300_p02.png, id=34, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_p02.png, id=33, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_p02.png Graphic file (type png)
 <use ./figures/results_WS_N300_p02.png>
 Package pdftex.def Info: ./figures/results_WS_N300_p02.png  used on input line 227.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_default.png, id=35, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_truthful_new_default.png, id=34, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_truthful_new_default.png Graphic file (type png)
 <use ./figures/results_WS_N300_truthful_new_default.png>
 Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_default.png  used on input line 238.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-[6] [7 <./figures/illustrateWS_p_modularity.png> <./figures/illustrationWS_p005.png> <./figures/illustrationWS_p03.png>] [8 <./figures/results_WS_N300_p02.png>] [9 <./figures/results_WS_N300_truthful_new_default.png>]
-<./figures/results_WS_N300_truthful_new_vary_p.png, id=54, 578.16pt x 433.62pt>
+[6] [7 <./figures/illustrateWS_p_modularity.png> <./figures/illustrationWS_p005.png (PNG copy)> <./figures/illustrationWS_p03.png (PNG copy)>] [8 <./figures/results_WS_N300_p02.png (PNG copy)>] [9 <./figures/results_WS_N300_truthful_new_default.png (PNG copy)>]
+<./figures/results_WS_N300_truthful_new_vary_p.png, id=49, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_truthful_new_vary_p.png Graphic file (type png)
 <use ./figures/results_WS_N300_truthful_new_vary_p.png>
 Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p.png  used on input line 248.
@@ -599,12 +599,12 @@ Overfull \hbox (8.81671pt too wide) in paragraph at lines 254--255
 [][] \T1/SourceSansPro-TLF/regular/n/10 To fur-ther elu-ci-date the im-pact of net-work topol-ogy, and the con-nec-tiv-ity pa-ram-e-ter specif-i-cally, Fig-ure 6[] presents
  []
 
-<./figures/results_N20000_truthful_new.png, id=55, 578.16pt x 433.62pt>
+<./figures/results_N20000_truthful_new.png, id=50, 578.16pt x 433.62pt>
 File: ./figures/results_N20000_truthful_new.png Graphic file (type png)
 <use ./figures/results_N20000_truthful_new.png>
 Package pdftex.def Info: ./figures/results_N20000_truthful_new.png  used on input line 258.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-[10 <./figures/results_WS_N300_truthful_new_vary_p.png (PNG copy)>] [11 <./figures/results_N20000_truthful_new.png>]
+[10 <./figures/results_WS_N300_truthful_new_vary_p.png (PNG copy)>] [11 <./figures/results_N20000_truthful_new.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 267.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
@@ -613,12 +613,12 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 267.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 267.
-<./figures/results_vary_mechanisms.png, id=63, 578.16pt x 433.62pt>
+<./figures/results_vary_mechanisms.png, id=57, 578.16pt x 433.62pt>
 File: ./figures/results_vary_mechanisms.png Graphic file (type png)
 <use ./figures/results_vary_mechanisms.png>
 Package pdftex.def Info: ./figures/results_vary_mechanisms.png  used on input line 282.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
- [12] [13 <./figures/results_vary_mechanisms.png>]
+ [12] [13 <./figures/results_vary_mechanisms.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 363.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
@@ -628,32 +628,32 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 5.0pt on input line 364.
  [14] [15]
-<./figures/results_WS_N300_truthful_new_vary_nei.png, id=81, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_truthful_new_vary_nei.png, id=74, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_truthful_new_vary_nei.png Graphic file (type png)
 <use ./figures/results_WS_N300_truthful_new_vary_nei.png>
 Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_nei.png  used on input line 468.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_vary_cb.png, id=82, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_truthful_new_vary_cb.png, id=75, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_truthful_new_vary_cb.png Graphic file (type png)
 <use ./figures/results_WS_N300_truthful_new_vary_cb.png>
 Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_cb.png  used on input line 475.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png, id=83, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png, id=76, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png Graphic file (type png)
 <use ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png>
 Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png  used on input line 481.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_default_10000_generations.png, id=84, 578.16pt x 433.62pt>
+<./figures/results_default_10000_generations.png, id=77, 578.16pt x 433.62pt>
 File: ./figures/results_default_10000_generations.png Graphic file (type png)
 <use ./figures/results_default_10000_generations.png>
 Package pdftex.def Info: ./figures/results_default_10000_generations.png  used on input line 488.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_1000_20000_truthful_new.png, id=85, 578.16pt x 433.62pt>
+<./figures/results_1000_20000_truthful_new.png, id=78, 578.16pt x 433.62pt>
 File: ./figures/results_1000_20000_truthful_new.png Graphic file (type png)
 <use ./figures/results_1000_20000_truthful_new.png>
 Package pdftex.def Info: ./figures/results_1000_20000_truthful_new.png  used on input line 495.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
- [16] [17 <./figures/results_WS_N300_truthful_new_vary_nei.png>] [18 <./figures/results_WS_N300_truthful_new_vary_cb.png>] [19 <./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png>] [20 <./figures/results_default_10000_generations.png>] [21 <./figures/results_1000_20000_truthful_new.png>] (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
+ [16] [17 <./figures/results_WS_N300_truthful_new_vary_nei.png (PNG copy)>] [18 <./figures/results_WS_N300_truthful_new_vary_cb.png (PNG copy)>] [19 <./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png (PNG copy)>] [20 <./figures/results_default_10000_generations.png (PNG copy)>] [21 <./figures/results_1000_20000_truthful_new.png (PNG copy)>] (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -677,9 +677,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  64i,12n,102p,3964b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}<C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.pdf (25 pages, 694434 bytes).
+Output written on i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.pdf (25 pages, 2588374 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
+ 255 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
