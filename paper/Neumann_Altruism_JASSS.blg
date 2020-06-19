@@ -1,47 +1,49 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Neumann_Altruism_JASSS.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: jasss.bst
+Reallocating 'name_of_file' (item size: 1) to 21 items.
 Database file #1: Neumann_Altruism_Bib.bib
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 36 entries,
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+You've used 46 entries,
             3029 wiz_defined-function locations,
-            889 strings with 11224 characters,
-and the built_in function-call counts, 22317 in all, are:
-= -- 1883
-> -- 810
-< -- 25
-+ -- 313
-- -- 277
-* -- 1724
-:= -- 3330
-add.period$ -- 92
-call.type$ -- 36
-change.case$ -- 275
-chr.to.int$ -- 37
-cite$ -- 36
-duplicate$ -- 1674
-empty$ -- 1751
-format.name$ -- 398
-if$ -- 4382
+            967 strings with 13598 characters,
+and the built_in function-call counts, 29543 in all, are:
+= -- 2451
+> -- 1182
+< -- 31
++ -- 459
+- -- 409
+* -- 2300
+:= -- 4412
+add.period$ -- 116
+call.type$ -- 46
+change.case$ -- 367
+chr.to.int$ -- 47
+cite$ -- 46
+duplicate$ -- 2172
+empty$ -- 2260
+format.name$ -- 562
+if$ -- 5784
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 331
-newline$ -- 233
-num.names$ -- 144
-pop$ -- 615
+missing$ -- 441
+newline$ -- 291
+num.names$ -- 184
+pop$ -- 833
 preamble$ -- 1
-purify$ -- 236
+purify$ -- 320
 quote$ -- 0
-skip$ -- 650
+skip$ -- 875
 stack$ -- 0
-substring$ -- 1029
-swap$ -- 917
-text.length$ -- 2
+substring$ -- 1321
+swap$ -- 1202
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 410
+type$ -- 538
 warning$ -- 0
-while$ -- 166
+while$ -- 210
 width$ -- 0
-write$ -- 537
+write$ -- 677

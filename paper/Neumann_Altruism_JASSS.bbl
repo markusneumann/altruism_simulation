@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{46}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -34,10 +34,43 @@ Barab{\'{a}}si, A.-L. \& Albert, R. (1999).
 \newblock \doi{10.1126/science.286.5439.509}
 \newline\urlprefix\url{http://dx.doi.org/10.1126/science.286.5439.509}
 
+\bibitem[{Bond et~al.(2012)Bond, Fariss, Jones, Kramer, Marlow, Settle \&
+  Fowler}]{Bond2012}
+Bond, R.~M., Fariss, C.~J., Jones, J.~J., Kramer, A. D.~I., Marlow, C., Settle,
+  J.~E. \& Fowler, J.~H. (2012).
+\newblock {A 61-million-person experiment in social influence and political
+  mobilization}.
+\newblock \textit{Nature}, \textit{489}(7415), 295--298.
+\newblock \doi{10.1038/nature11421}
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nature11421}
+
 \bibitem[{Boyd et~al.(2003)Boyd, Gintis, Bowles \& Richerson}]{boyd2003}
-Boyd, R., Gintis, H., Bowles, S. \& Richerson, P. (2003).
-\newblock {The evolution of altruistic punishment}.
-\newblock \textit{PNAS}, \textit{100 (6)}, 3531--3535
+Boyd, R., Gintis, H., Bowles, S. \& Richerson, P.~J. (2003).
+\newblock {The evolution of altruistic punishment.}
+\newblock \textit{Proceedings of the National Academy of Sciences of the United
+  States of America}, \textit{100}(6), 3531--3535.
+\newblock \doi{10.1073/pnas.0630443100}
+\newline\urlprefix\url{http://dx.doi.org/10.1073/pnas.0630443100}
+
+\bibitem[{Boyd \& Richerson(1985)}]{Boyd1985}
+Boyd, R. \& Richerson, P. (1985).
+\newblock \textit{Culture and the Evolutionary Process}.
+\newblock University of Chicago Press
+
+\bibitem[{Centola(2010)}]{Centola2010}
+Centola, D. (2010).
+\newblock The spread of behavior in an online social network experiment.
+\newblock \textit{Science}, \textit{329}(5996), 1194--1197
+
+\bibitem[{Christakis \& Fowler(2007)}]{Christakis2007}
+Christakis, N.~A. \& Fowler, J.~H. (2007).
+\newblock The spread of obesity in a large social network over 32 years.
+\newblock \textit{New England Journal of Medicine}, \textit{357}(4), 370--379
+
+\bibitem[{Clauset et~al.(2004)Clauset, Newman \& Moore}]{Clauset2004}
+Clauset, A., Newman, M.~E. \& Moore, C. (2004).
+\newblock Finding community structure in very large networks.
+\newblock \textit{Physical review E}, \textit{70}(6), 066111
 
 \bibitem[{Cohen(2012)}]{Cohen2012}
 Cohen, E. (2012).
@@ -59,6 +92,11 @@ Duan, W., Chen, Z., Liu, Z. \& Jin, W. (2005).
   Physics}, \textit{72}(2), 1--5.
 \newblock \doi{10.1103/PhysRevE.72.026133}
 \newline\urlprefix\url{http://dx.doi.org/10.1103/PhysRevE.72.026133}
+
+\bibitem[{Dunbar(1998)}]{Dunbar1998}
+Dunbar, R. (1998).
+\newblock \textit{Grooming, gossip, and the evolution of language}.
+\newblock Harvard University Press
 
 \bibitem[{Erd{\"{o}}s \& R{\'{e}}nyi(1960)}]{Erdos1960}
 Erd{\"{o}}s, P. \& R{\'{e}}nyi, A. (1960).
@@ -91,6 +129,14 @@ Hamilton, W. (1964{\natexlab{a}}).
 Hamilton, W. (1964{\natexlab{b}}).
 \newblock {The Genetical Evolution of Social Behaviour. II}.
 \newblock \textit{Journal of Theoretical Biology}, \textit{7 (1)}, 17--52
+
+\bibitem[{Henrich et~al.(2003)Henrich, Bowles, Boyd, Hopfensitz, Richerson,
+  Sigmund, Smith, Weissing \& Young}]{Henrich2003}
+Henrich, J., Bowles, S., Boyd, R.~T., Hopfensitz, A., Richerson, P.~J.,
+  Sigmund, K., Smith, E.~A., Weissing, F.~J. \& Young, H.~P. (2003).
+\newblock Group report: The cultural and genetic evolution of human
+  cooperation.
+\newblock \textit{Genetic and cultural evolution of cooperation}, (pp. 445--68)
 
 \bibitem[{Ito et~al.(2016)Ito, Ogawa, Suzuki, Takahashi \& Takemoto}]{Ito2016}
 Ito, T., Ogawa, K., Suzuki, A., Takahashi, H. \& Takemoto, T. (2016).
@@ -155,6 +201,18 @@ Rand, W., Herrmann, J., Schein, B. \& Vodopivec, N. (2015).
 \newblock \textit{Journal of Artificial Societies and Social Simulation},
   \textit{18}(2), 1--24
 
+\bibitem[{Richerson et~al.(2016)Richerson, Baldini, Bell, Demps, Frost, Hillis,
+  Mathew, Newton, Naar, Newson, Ross, Smaldino, Waring \&
+  Zefferman}]{Richerson2016}
+Richerson, P., Baldini, R., Bell, A.~V., Demps, K., Frost, K., Hillis, V.,
+  Mathew, S., Newton, E.~K., Naar, N., Newson, L., Ross, C., Smaldino, P.~E.,
+  Waring, T.~M. \& Zefferman, M. (2016).
+\newblock Cultural group selection plays an essential role in explaining human
+  cooperation: A sketch of the evidence.
+\newblock \textit{Behavioral and Brain Sciences}, \textit{39}.
+\newblock \doi{10.1017/s0140525x1400106x}
+\newline\urlprefix\url{http://dx.doi.org/10.1017/s0140525x1400106x}
+
 \bibitem[{Salazar et~al.(2011)Salazar, Rodriguez-Aguilar, Arcos, Peleteiro \&
   Burguillo-Rial}]{Salazar2011}
 Salazar, N., Rodriguez-Aguilar, J.~A., Arcos, J.~L., Peleteiro, A. \&
@@ -200,6 +258,15 @@ Shakespeare, W. (1605).
 \newblock {The Merchant of Venice}
 \newline\urlprefix\url{http://shakespeare.mit.edu/merchant/merchant.5.1.html}
 
+\bibitem[{Shalizi \& Thomas(2011)}]{Shalizi2011}
+Shalizi, C.~R. \& Thomas, A.~C. (2011).
+\newblock {Homophily and Contagion Are Generically Confounded in Observational
+  Social Network Studies}.
+\newblock \textit{Sociological Methods {\&} Research}, \textit{40}(2),
+  211--239.
+\newblock \doi{10.1177/0049124111404820}
+\newline\urlprefix\url{http://dx.doi.org/10.1177/0049124111404820}
+
 \bibitem[{Shutters \& Hales(2013)}]{Shutters2013}
 Shutters, S.~T. \& Hales, D. (2013).
 \newblock {Tag-Mediated Altruism is Contingent on How Cheaters Are Defined}.
@@ -211,6 +278,12 @@ Shutters, S.~T. \& Hales, D. (2015).
 \newblock {Altruism Displays a Harmonic Signature in Structured Societies}.
 \newblock \textit{Journal of Artificial Societies and Social Simulation},
   \textit{18}(3), 2--11
+
+\bibitem[{Soltis et~al.(1995)Soltis, Boyd \& Richerson}]{Soltis1995}
+Soltis, J., Boyd, R. \& Richerson, P.~J. (1995).
+\newblock Can group-functional behaviors evolve by cultural group selection?:
+  An empirical test.
+\newblock \textit{Current anthropology}, \textit{36}(3), 473--494
 
 \bibitem[{Spector \& Klein(2006)}]{Spector2006}
 Spector, L. \& Klein, J. (2006).
