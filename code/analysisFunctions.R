@@ -1,6 +1,10 @@
 library(reshape2)
 library(ggplot2)
 
+cols <- c("6" = "#b30000", "5" = "#cc4735", "4" = "#d86a4f", "3" = "#e48d69", "2" = "#f1b184", "1" = "#fdd49e",
+          "0" = "#bdbdbd",
+          "-1" = "#9ecae1", "-2" = "#6baed6", "-3" = "#4292c6", "-4" = "#2171b5", "-5" = "#084594")
+
 makeGenerationPlot <- function(resultsSims, nNodes, nGenerations, bw = F){
   resultsSims <- resultsSims/nNodes*100 #convert to percent
   results2 <- melt(resultsSims)
@@ -22,7 +26,7 @@ makeGenerationPlot <- function(resultsSims, nNodes, nGenerations, bw = F){
   if(bw == F){
     g1 <- ggplot(results2, aes(Generation, Percentage, colour = strat)) +
       xlim(0,nGenerations) + geom_line() + 
-      scale_color_discrete(name = "Strategy") +
+      scale_colour_manual(values = cols, "Strategy") +
       theme_bw()
     g1
   }
@@ -50,7 +54,7 @@ makeSimulationPlot <- function(resultsSims, nNodes, nGenerations, nSims, netwPro
   if(bw == F){
     g1 <- ggplot(results2, aes(networkProperty, Percentage, colour = strat)) +
       geom_line() + 
-      scale_color_discrete(name = "Strategy") +
+      scale_colour_manual(values = cols, "Strategy") +
       theme_bw() + labs(x = netwPropName)
     g1
   }

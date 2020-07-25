@@ -19,7 +19,7 @@ replication <- replication_methods[1]
 #Run the simulation
 source("Neumann_Altruism_Simulation.R")
 #Save the results
-save.image(paste0("../results/img_WS_N300_default_10000_generations.rdata"))
+save.image("../results/img_WS_N300_default_10000_generations.rdata")
 
 source("analysisFunctions.R")
 makeGenerationPlot(results_sims, N, generations, bw = F) + ylim(0, 25) + ylab("Percentage of surviving strategies")

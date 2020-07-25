@@ -17,7 +17,7 @@ replication <- replication_methods[1]
 
 source("Neumann_Altruism_Simulation.R")
 #Save the results
-results_name <- paste0(network_type, "_N", N, "_", mechanism, "_", replication, "_population")
+results_name <- paste0(network_type, "_N20000_", mechanism, "_", replication, "_population")
 save.image(paste0("../results/img_", results_name, ".rdata"))
 #save(results_sims, file = paste0("../results/result_", results_name, ".rdata"))
 
@@ -32,12 +32,16 @@ results2 <- gather(results_sims, strat, fitness, -N, -generation)
 results2$fitness <- results2$fitness/results2$N*100
 results2$strat <- as.factor(as.numeric(results2$strat))
 
+cols <- c("6" = "#b30000", "5" = "#cc4735", "4" = "#d86a4f", "3" = "#e48d69", "2" = "#f1b184", "1" = "#fdd49e",
+          "0" = "#bdbdbd",
+          "-1" = "#9ecae1", "-2" = "#6baed6", "-3" = "#4292c6", "-4" = "#2171b5", "-5" = "#084594")
+
 #Plot including N1000-20000
 ggplot(results2, aes(generation, fitness, colour = strat)) +
   xlim(0,generations) + geom_line() +
   theme_bw() +
   facet_wrap(~N) + 
-  scale_color_discrete(name = "Strategy") +
+  scale_colour_manual(values = cols, "Strategy") +
   xlab("Generation") +
   ylab("Percentage of surviving strategies")
 ggsave(filename = "../figures/results_1000_20000_truthful_new.png", width = 8, height = 6, dpi = 100, units = "in")
@@ -46,7 +50,7 @@ ggsave(filename = "../figures/results_1000_20000_truthful_new.png", width = 8, h
 ggplot(results2[results2$N==20000,], aes(generation, fitness, colour = strat)) +
   xlim(0,generations) + ylim(7.5,9) + geom_line() +
   theme_bw() +
-  scale_color_discrete(name = "Strategy") +
+  scale_colour_manual(values = cols, "Strategy") +
   xlab("Generation") +
   ylab("Percentage of surviving strategies")
 ggsave(filename = "../figures/results_N20000_truthful_new.png", width = 8, height = 6, dpi = 100, units = "in")

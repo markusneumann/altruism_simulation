@@ -1,13 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.9)  19 JUN 2020 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.22)  22 JUL 2020 19:09
 entering extended mode
-**i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/Neumann_Altruism_JASSS.tex
-(i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/Neumann_Altruism_JASSS.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-03> (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\JASSS.cls
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Neumann_Altruism_JASSS.tex
+(./Neumann_Altruism_JASSS.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (./JASSS.cls
 Document Class: JASSS 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -21,29 +23,40 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/sourcesanspro\sourcesanspro.sty
-Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
- ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+Package: sourcesanspro 2016/12/03 v2.6 Adobe's Source Sans Pro typeface
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
- ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)) ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex" ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
-\XKV@toks=\toks15
-\XKV@tempa@toks=\toks16
- ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\keyval.tex"))
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count175
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/ly1\ly1enc.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
 File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ly1enc.dfu"
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ly1enc.dfu
 File: ly1enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -170,34 +183,43 @@ File: ly1enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-)))) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+))))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 112.
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/sourcesanspro\t1sourcesanspro-tlf.fd
-File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/SourceSansPro-TLF.
+LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-LF on 
+input line 112.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-LF.fd
+File: T1SourceSansPro-LF.fd 2016/12/03 (autoinst) Font definitions for T1/Sourc
+eSansPro-LF.
 )
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 112.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 112.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -210,7 +232,8 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen137
 \lightrulewidth=\dimen138
@@ -229,21 +252,25 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count178
 \@lastruleclass=\count179
 \@thisrulewidth=\dimen149
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks16
 \ex@=\dimen150
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count180
@@ -266,28 +293,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip16
 \c@parentequation=\count187
 \dspbrk@lvl=\count188
-\tag@help=\toks18
+\tag@help=\toks17
 \row@=\count189
 \column@=\count190
 \maxfields@=\count191
-\andhelp@=\toks19
+\andhelp@=\toks18
 \eqnshift@=\dimen153
 \alignsep@=\dimen154
 \tagshift@=\dimen155
 \tagwidth@=\dimen156
 \totwidth@=\dimen157
 \lineht@=\dimen158
-\@envbody=\toks20
+\@envbody=\toks19
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/geometry\geometry.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count192
@@ -301,21 +331,25 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen164
 \Gm@layouthoffset=\dimen165
 \Gm@layoutvoffset=\dimen166
-\Gm@dimlist=\toks22
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/geometry\geometry.cfg)) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/preprint\authblk.sty
+\Gm@dimlist=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip52
 \@affilsep=\skip53
 \c@Maxaffil=\count195
 \c@authors=\count196
 \c@affil=\count197
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/endnotes\endnotes.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/endnotes/endnotes.sty
 Package: endnotes 2020-01-02 endnotes package
 \c@endnote=\count198
 \endnotesep=\dimen167
 \@enotes=\write3
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
 \f@nch@headwidth=\skip54
 \f@nch@O@elh=\skip55
 \f@nch@O@erh=\skip56
@@ -329,8 +363,10 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \c@parano=\count199
 \paranoboxwidth=\dimen168
 \parwidth=\dimen169
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/sectsty\sectsty.sty
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+(/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
 
 
 LaTeX Warning: Command \underbar  has changed.
@@ -340,18 +376,21 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-)) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/natbib\natbib.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip63
 \bibsep=\skip64
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count266
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/subfig\subfig.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption.sty
-Package: caption 2020/05/10 v3.4j Customizing captions (AR)
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption3.sty
-Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen170
 \captionmargin@=\dimen171
@@ -378,24 +417,30 @@ Package caption Info: Standard document class detected.
 \c@lotdepth=\count275
 \sf@top=\skip68
 \sf@bottom=\skip69
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/algorithms\algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/float\float.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count276
-\float@exts=\toks23
+\float@exts=\toks22
 \float@box=\box47
-\@float@everytoks=\toks24
+\@float@everytoks=\toks23
 \@floatcapt=\box48
 )
-\@float@every@algorithm=\toks25
+\@float@every@algorithm=\toks24
 \c@algorithm=\count277
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/algorithmicx\algpseudocode.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/algorithmicx\algorithmicx.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -411,13 +456,15 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip72
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/placeins\placeins.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count285
 \l__pdf_internal_box=\box49
-) (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux)
+)
+(./Neumann_Altruism_JASSS.aux)
 \openout1 = `Neumann_Altruism_JASSS.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
@@ -435,28 +482,36 @@ LaTeX Font Info:    ... okay on input line 90.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
 LaTeX Font Info:    ... okay on input line 90.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 90.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 90.
- (C:\Users\neuma\AppData\Roaming\MiKTeX\2.9\tex/latex/ly1\ly1ptm.fd
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 9
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 90.
- ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count286
 \scratchdimen=\dimen178
 \scratchbox=\box50
 \nofMPsegments=\count287
 \nofMParguments=\count288
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count289
 \MPscratchDim=\dimen179
 \MPnumerator=\count290
 \makeMPintoPDFobject=\count291
-\everyMPtoPDFconversion=\toks27
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -505,17 +560,11 @@ File: JASSS.png Graphic file (type png)
 <use JASSS.png>
 Package pdftex.def Info: JASSS.png  used on input line 91.
 (pdftex.def)             Requested size: 113.81102pt x 45.76552pt.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 91.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 91.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 91.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 91.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 91.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 91.
 File: bar.png Graphic file (type png)
 <use bar.png>
@@ -526,160 +575,201 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 98.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 98.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 113.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 113.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 113.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 113.
 [1
 
-{C:/Users/neuma/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/bar.png> <i:/Dropbox/aca/Paper_Altruism/revise_resubmit/paper/JASSS.png>]
-Overfull \hbox (3.46515pt too wide) in paragraph at lines 127--128
-[][] \T1/SourceSansPro-TLF/regular/n/10 I be-gin by sit-u-at-ing my anal-y-sis within the body of re-search on in-di-rect and net-work reci-procity. A new contagion-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./bar.png> <./JASSS.png>]
+Overfull \hbox (3.09534pt too wide) in paragraph at lines 127--128
+[][] \T1/SourceSansPro-LF/m/n/10 I be-gin by sit-u-at-ing my anal-y-sis within 
+the body of re-search on in-di-rect and net-work reci-procity. A new contagion-
+
  []
 
 [2] [3]
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 169.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 169.
 \openout3 = `Neumann_Altruism_JASSS.ent'.
 
-<./figures/illustration_Contagion.png, id=23, 803.0pt x 803.0pt>
+<./figures/illustration_Contagion.png, id=24, 803.0pt x 803.0pt>
 File: ./figures/illustration_Contagion.png Graphic file (type png)
 <use ./figures/illustration_Contagion.png>
-Package pdftex.def Info: ./figures/illustration_Contagion.png  used on input line 183.
+Package pdftex.def Info: ./figures/illustration_Contagion.png  used on input li
+ne 183.
 (pdftex.def)             Requested size: 455.24411pt x 455.25195pt.
  [4] [5 <./figures/illustration_Contagion.png (PNG copy)>]
-<./figures/illustrateWS_p_modularity.png, id=30, 578.16pt x 433.62pt>
+<./figures/illustrateWS_p_modularity.png, id=31, 578.16pt x 433.62pt>
 File: ./figures/illustrateWS_p_modularity.png Graphic file (type png)
 <use ./figures/illustrateWS_p_modularity.png>
-Package pdftex.def Info: ./figures/illustrateWS_p_modularity.png  used on input line 203.
+Package pdftex.def Info: ./figures/illustrateWS_p_modularity.png  used on input
+ line 200.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/illustrationWS_p005.png, id=31, 803.0pt x 803.0pt>
+<./figures/illustrationWS_p005.png, id=32, 803.0pt x 803.0pt>
 File: ./figures/illustrationWS_p005.png Graphic file (type png)
 <use ./figures/illustrationWS_p005.png>
-Package pdftex.def Info: ./figures/illustrationWS_p005.png  used on input line 214.
+Package pdftex.def Info: ./figures/illustrationWS_p005.png  used on input line 
+211.
 (pdftex.def)             Requested size: 209.41534pt x 209.41222pt.
 
-Underfull \hbox (badness 1297) in paragraph at lines 214--214
-[]\T1/SourceSansPro-TLF/regular/n/10 (a) |Watts-Strogatz net-work gen-er-ated with $\OML/cmm/m/it/10 p \OT1/cmr/m/n/10 =
+Underfull \hbox (badness 1331) in paragraph at lines 211--211
+[]\T1/SourceSansPro-LF/m/n/10 (a) |Watts-Strogatz net-work gen-er-ated with $\O
+ML/cmm/m/it/10 p \OT1/cmr/m/n/10 =
  []
 
-<./figures/illustrationWS_p03.png, id=32, 803.0pt x 803.0pt>
+<./figures/illustrationWS_p03.png, id=33, 803.0pt x 803.0pt>
 File: ./figures/illustrationWS_p03.png Graphic file (type png)
 <use ./figures/illustrationWS_p03.png>
-Package pdftex.def Info: ./figures/illustrationWS_p03.png  used on input line 216.
+Package pdftex.def Info: ./figures/illustrationWS_p03.png  used on input line 2
+13.
 (pdftex.def)             Requested size: 209.41534pt x 209.41222pt.
-<./figures/results_WS_N300_p02.png, id=33, 578.16pt x 433.62pt>
+<./figures/results_WS_N300_p02.png, id=34, 578.16pt x 433.62pt>
 File: ./figures/results_WS_N300_p02.png Graphic file (type png)
 <use ./figures/results_WS_N300_p02.png>
-Package pdftex.def Info: ./figures/results_WS_N300_p02.png  used on input line 227.
+Package pdftex.def Info: ./figures/results_WS_N300_p02.png  used on input line 
+224.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_default.png, id=34, 578.16pt x 433.62pt>
-File: ./figures/results_WS_N300_truthful_new_default.png Graphic file (type png)
+<./figures/results_WS_N300_truthful_new_default.png, id=35, 578.16pt x 433.62pt
+>
+File: ./figures/results_WS_N300_truthful_new_default.png Graphic file (type png
+)
 <use ./figures/results_WS_N300_truthful_new_default.png>
-Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_default.png  used on input line 238.
+Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_default.png  us
+ed on input line 235.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-[6] [7 <./figures/illustrateWS_p_modularity.png> <./figures/illustrationWS_p005.png (PNG copy)> <./figures/illustrationWS_p03.png (PNG copy)>] [8 <./figures/results_WS_N300_p02.png (PNG copy)>] [9 <./figures/results_WS_N300_truthful_new_default.png (PNG copy)>]
-<./figures/results_WS_N300_truthful_new_vary_p.png, id=49, 578.16pt x 433.62pt>
+[6] [7 <./figures/illustrateWS_p_modularity.png> <./figures/illustrationWS_p005
+.png (PNG copy)> <./figures/illustrationWS_p03.png (PNG copy)>] [8 <./figures/r
+esults_WS_N300_p02.png (PNG copy)>] [9 <./figures/results_WS_N300_truthful_new_
+default.png (PNG copy)>]
+<./figures/results_WS_N300_truthful_new_vary_p.png, id=50, 578.16pt x 433.62pt>
+
 File: ./figures/results_WS_N300_truthful_new_vary_p.png Graphic file (type png)
+
 <use ./figures/results_WS_N300_truthful_new_vary_p.png>
-Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p.png  used on input line 248.
+Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p.png  use
+d on input line 245.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
 
-Overfull \hbox (8.81671pt too wide) in paragraph at lines 254--255
-[][] \T1/SourceSansPro-TLF/regular/n/10 To fur-ther elu-ci-date the im-pact of net-work topol-ogy, and the con-nec-tiv-ity pa-ram-e-ter specif-i-cally, Fig-ure 6[] presents
+Overfull \hbox (8.75687pt too wide) in paragraph at lines 251--252
+[][] \T1/SourceSansPro-LF/m/n/10 To fur-ther elu-ci-date the im-pact of net-wor
+k topol-ogy, and the con-nec-tiv-ity pa-ram-e-ter specif-i-cally, Fig-ure 6[] p
+resents
  []
 
-<./figures/results_N20000_truthful_new.png, id=50, 578.16pt x 433.62pt>
+<./figures/results_N20000_truthful_new.png, id=51, 578.16pt x 433.62pt>
 File: ./figures/results_N20000_truthful_new.png Graphic file (type png)
 <use ./figures/results_N20000_truthful_new.png>
-Package pdftex.def Info: ./figures/results_N20000_truthful_new.png  used on input line 258.
+Package pdftex.def Info: ./figures/results_N20000_truthful_new.png  used on inp
+ut line 255.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-[10 <./figures/results_WS_N300_truthful_new_vary_p.png (PNG copy)>] [11 <./figures/results_N20000_truthful_new.png (PNG copy)>]
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 267.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 267.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 267.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 267.
-<./figures/results_vary_mechanisms.png, id=57, 578.16pt x 433.62pt>
+[10 <./figures/results_WS_N300_truthful_new_vary_p.png (PNG copy)>] [11 <./figu
+res/results_N20000_truthful_new.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 264.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 264.
+<./figures/results_vary_mechanisms.png, id=58, 578.16pt x 433.62pt>
 File: ./figures/results_vary_mechanisms.png Graphic file (type png)
 <use ./figures/results_vary_mechanisms.png>
-Package pdftex.def Info: ./figures/results_vary_mechanisms.png  used on input line 282.
+Package pdftex.def Info: ./figures/results_vary_mechanisms.png  used on input l
+ine 279.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
  [12] [13 <./figures/results_vary_mechanisms.png (PNG copy)>]
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 363.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
-(Font)              scaled to size 10.0pt on input line 363.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 364.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 364.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 360.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 361.
  [14] [15]
-<./figures/results_WS_N300_truthful_new_vary_nei.png, id=74, 578.16pt x 433.62pt>
-File: ./figures/results_WS_N300_truthful_new_vary_nei.png Graphic file (type png)
+<./figures/results_WS_N300_truthful_new_vary_nei.png, id=75, 578.16pt x 433.62p
+t>
+File: ./figures/results_WS_N300_truthful_new_vary_nei.png Graphic file (type pn
+g)
 <use ./figures/results_WS_N300_truthful_new_vary_nei.png>
-Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_nei.png  used on input line 468.
+Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_nei.png  u
+sed on input line 465.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_vary_cb.png, id=75, 578.16pt x 433.62pt>
-File: ./figures/results_WS_N300_truthful_new_vary_cb.png Graphic file (type png)
+<./figures/results_WS_N300_truthful_new_vary_cb.png, id=76, 578.16pt x 433.62pt
+>
+File: ./figures/results_WS_N300_truthful_new_vary_cb.png Graphic file (type png
+)
 <use ./figures/results_WS_N300_truthful_new_vary_cb.png>
-Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_cb.png  used on input line 475.
+Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_cb.png  us
+ed on input line 472.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png, id=76, 578.16pt x 433.62pt>
-File: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png Graphic file (type png)
+<./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png, id=77, 578.16pt x 4
+33.62pt>
+File: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png Graphic file (t
+ype png)
 <use ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png>
-Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png  used on input line 481.
+Package pdftex.def Info: ./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.
+png  used on input line 478.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_default_10000_generations.png, id=77, 578.16pt x 433.62pt>
+<./figures/results_default_10000_generations.png, id=78, 578.16pt x 433.62pt>
 File: ./figures/results_default_10000_generations.png Graphic file (type png)
 <use ./figures/results_default_10000_generations.png>
-Package pdftex.def Info: ./figures/results_default_10000_generations.png  used on input line 488.
+Package pdftex.def Info: ./figures/results_default_10000_generations.png  used 
+on input line 485.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
-<./figures/results_1000_20000_truthful_new.png, id=78, 578.16pt x 433.62pt>
+<./figures/results_1000_20000_truthful_new.png, id=79, 578.16pt x 433.62pt>
 File: ./figures/results_1000_20000_truthful_new.png Graphic file (type png)
 <use ./figures/results_1000_20000_truthful_new.png>
-Package pdftex.def Info: ./figures/results_1000_20000_truthful_new.png  used on input line 495.
+Package pdftex.def Info: ./figures/results_1000_20000_truthful_new.png  used on
+ input line 492.
 (pdftex.def)             Requested size: 455.24411pt x 341.43124pt.
- [16] [17 <./figures/results_WS_N300_truthful_new_vary_nei.png (PNG copy)>] [18 <./figures/results_WS_N300_truthful_new_vary_cb.png (PNG copy)>] [19 <./figures/results_WS_N300_truthful_new_vary_p_cb_1_10.png (PNG copy)>] [20 <./figures/results_default_10000_generations.png (PNG copy)>] [21 <./figures/results_1000_20000_truthful_new.png (PNG copy)>] (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.ent
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+ [16] [17 <./figures/results_WS_N300_truthful_new_vary_nei.png (PNG copy)>] [18
+ <./figures/results_WS_N300_truthful_new_vary_cb.png (PNG copy)>] [19 <./figure
+s/results_WS_N300_truthful_new_vary_p_cb_1_10.png (PNG copy)>] [20 <./figures/r
+esults_default_10000_generations.png (PNG copy)>] [21 <./figures/results_1000_2
+0000_truthful_new.png (PNG copy)>]
+(./Neumann_Altruism_JASSS.ent
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (18.90692pt too wide) in paragraph at lines 13--36
-\T1/SourceSansPro-TLF/regular/n/10 scrip-tion. The full repli-ca-tion code is avail-able at: $\T1/cmtt/m/n/10 https : / / github . com / markusneumann / altruism _ simulation$ 
+Overfull \hbox (18.75697pt too wide) in paragraph at lines 13--36
+\T1/SourceSansPro-LF/m/n/10 scrip-tion. The full repli-ca-tion code is avail-ab
+le at: $\T1/cmtt/m/n/10 https : / / github . com / markusneumann / altruism _ s
+imulation$ 
  []
 
-) (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.bbl [22] [23] [24]
+) (./Neumann_Altruism_JASSS.bbl [22] [23] [24]
 Underfull \hbox (badness 10000) in paragraph at lines 327--331
-\T1/SourceSansPro-TLF/regular/n/10 URL $\T1/cmtt/m/n/10 http : / / arxiv . org / abs / physics / 0508220v2{\ % }5Cnpapers3 : / / publication / uuid /
+\T1/SourceSansPro-LF/m/n/10 URL $\T1/cmtt/m/n/10 http : / / arxiv . org / abs /
+ physics / 0508220v2{\ % }5Cnpapers3 : / / publication / uuid /
  []
 
-) [25] (i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.aux) ) 
+) [25] (./Neumann_Altruism_JASSS.aux) ) 
 Here is how much of TeX's memory you used:
- 6699 strings out of 480797
- 103494 string characters out of 2905362
- 359743 words of memory out of 3000000
- 22580 multiletter control sequences out of 15000+200000
- 647904 words of font info for 48 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 64i,12n,102p,3964b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\neuma\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}<C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb><C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/neuma/AppData/Roaming/MiKTeX/2.9/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on i:/Dropbox\aca\Paper_Altruism\revise_resubmit\paper\Neumann_Altruism_JASSS.pdf (25 pages, 2588374 bytes).
+ 6593 strings out of 483107
+ 98807 string characters out of 5964630
+ 351542 words of memory out of 5000000
+ 21495 multiletter control sequences out of 15000+600000
+ 647291 words of font info for 48 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 64i,12n,102p,3911b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/m/.texlive2019/texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecrm1000.600pk> </home/m/.texlive2019/texmf-var/fonts/pk/l
+jfour/jknappen/ec/ectt1000.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips
+/sourcesanspro/a_mhce32.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sour
+cesanspro/a_ggs4wk.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesan
+spro/a_5tbsmu.enc}</usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspr
+o/SourceSansPro-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourc
+esanspro/SourceSansPro-It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/
+sourcesanspro/SourceSansPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Neumann_Altruism_JASSS.pdf (25 pages, 2543572 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

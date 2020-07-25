@@ -2,6 +2,7 @@ rm(list = ls()) #ensure that no hidden variables are loaded through .Rhistory or
 
 library(reshape2)
 library(ggplot2)
+library(igraph)
 
 N <- 300 #default is 300
 nsim <- 1
@@ -21,10 +22,13 @@ source("Neumann_Altruism_Simulation_dont_reset_img.R")
 
 #Illustrate
 nodeOfInterest <- 4
-colfunc <- colorRampPalette(c("green", "red"))
-colNodes <- colfunc(12)[img[,nodeOfInterest]+5]
+cols <- c("6" = "#b30000", "5" = "#cc4735", "4" = "#d86a4f", "3" = "#e48d69", "2" = "#f1b184", "1" = "#fdd49e",
+          "0" = "#bdbdbd",
+          "-1" = "#9ecae1", "-2" = "#6baed6", "-3" = "#4292c6", "-4" = "#2171b5", "-5" = "#084594")
+cols <- rev(cols)
+colNodes <- cols[img[,nodeOfInterest]+6]
 colNodes[img[,nodeOfInterest]==0] <- "#808080"
-colNodes[nodeOfInterest] <- "#0000ff"
+colNodes[nodeOfInterest] <- "#000000"
 #pdf(file = "../figures/illustration_Contagion.pdf", width = 12, height = 12)
 png(file = "../figures/illustration_Contagion.png", width = 800, height = 800)
 set.seed(1)

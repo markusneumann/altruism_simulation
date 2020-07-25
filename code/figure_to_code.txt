@@ -1,21 +1,17 @@
-Figure 1  -- illustration_Contagion.R (currently sources old script)
+# The figures in the papers are produced with the following scripts:
+
+Figure 1  -- illustration_Contagion.R
 Figure 2  -- illustration_WS_p.R
 Figure 3  -- illustration_NetworkAltruismColor.R
 
 Figure 4  -- analysis_default_p02.R
 Figure 5  -- analysis_default.R
 Figure 6  -- analysis_default_vary_p.R
-Figure 7  -- analysis_N20000_truthful_new.R (SHOULD be, not fully adjusted)
+Figure 7  -- analysis_N20000_truthful_new.R
 Figure 8  -- 6 scripts: analysis_truthful_new_vary_p.R, etc., then the plot is made in illustration_vary_mechanisms.R
 
 Figure 9  -- analysis_default_vary_nei.R
 Figure 10 -- analysis_default_vary_cb.R
 Figure 11 -- analysis_cb1_10_vary_p.R
-Figure 12 -- illustration_10000generations.R (needs updated results)
+Figure 12 -- illustration_10000generations.R
 Figure 13 -- analysis_N20000_truthful_new.R
-
-# new figures:
-different mechanisms --> Figure 8
-cost-benefit ratio --> Figure 10 & 11
-number of generations --> Figure 12
-N300-20000 --> Figure 13

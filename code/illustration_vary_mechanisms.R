@@ -59,9 +59,13 @@ df$replication_method[df$replication_method=="retain"] <- "Replication: Retain n
 #   facet_grid(replication_method~mechanism)
 # g1
 
+cols <- c("6" = "#b30000", "5" = "#cc4735", "4" = "#d86a4f", "3" = "#e48d69", "2" = "#f1b184", "1" = "#fdd49e",
+          "0" = "#bdbdbd",
+          "-1" = "#9ecae1", "-2" = "#6baed6", "-3" = "#4292c6", "-4" = "#2171b5", "-5" = "#084594")
+
 g1 <- ggplot(df, aes(networkProperty, Percentage, colour = strat)) +
   geom_line() + 
-  scale_color_discrete(name = "Strategy") +
+  scale_colour_manual(values = cols, "Strategy") +
   theme_bw() + labs(x = "P (Rewiring probability)") +
   facet_grid(replication_method~mechanism)
 g1

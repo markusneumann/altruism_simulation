@@ -1,3 +1,5 @@
+rm(list = ls()) #ensure that no hidden variables are loaded through .Rhistory or .Rsession
+
 library(reshape2)
 library(ggplot2)
 
