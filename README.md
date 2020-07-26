@@ -19,6 +19,6 @@ Figure 11 -- analysis_cb1_10_vary_p.R
 Figure 12 -- illustration_10000generations.R  
 Figure 13 -- analysis_N20000_truthful_new.R  
 
-The code for the simulation itself resides in Neumann_Altruism_Simulation.R. The scripts listed above set the simulation parameters and then source this file. The results are saved in the results folder. Since many of the simulations require a large amount of memory and can take several days to run, the contents of the results folder are included in this repository. Figures are, by default, saved in the figures folder.
+The code for the simulation itself resides in Neumann_Altruism_Simulation.R. The scripts listed above set the simulation parameters and then source this file. The results are saved in the results folder. Since many of the simulations require a large amount of memory and can take several days to run, the contents of the results folder are included in this repository. The code to make the figures is sourced from analysisFunctions.R. Figures are, by default, saved in the figures folder.
 
 [CoMSES version](https://www.comses.net/codebases/41bc083e-b8d3-4133-83ed-150bb63a4b39/releases/1.0.0/) of this repository (identical code, but without the figures and the paper).
