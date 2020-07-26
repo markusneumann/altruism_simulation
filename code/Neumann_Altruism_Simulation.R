@@ -1,4 +1,4 @@
-# Created January 2020
+# Created July 2020
 # Paper:  Indirect Reciprocity with Contagious Reputation in Large-Scale Small-World Networks
 #
 # Author: Markus Neumann
