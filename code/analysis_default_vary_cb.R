@@ -9,6 +9,11 @@ network_type <- "WS"
 vary <- "cb"
 WS.nei <- 5  #default is 5
 WS.p <- 0.2  #default is 0.1; 0.2 corresponds to Figure 4
+#Note: the reason this is 0.2 and not the default 0.1 here is because if it was 0.1,
+# the plot wouldn't show any variation based on the cost-benefit ratio;
+# in that case, the left-hand side of the plot would simply correspond to Figure 5.
+#Instead, the conditions need to be sufficiently difficult for altruism,
+# for the benefits of a higher cost-benefit ratio to become evident
 generations <- 100
 mechanisms <- c("truthful", "negative", "similar")
 replication_methods <- c("new", "retain")

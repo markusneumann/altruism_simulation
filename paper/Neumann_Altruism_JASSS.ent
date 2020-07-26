@@ -24,15 +24,6 @@ a
 more
 detailed
 description.
-The
-full
-replication
-code
-is
-available
-at:
-\url
-{https://github.com/markusneumann/altruism_simulation}
 \@endanenote 
 \@doanenote {3}
 macro:->At
@@ -466,7 +457,7 @@ random
 graph
 models:
 The
-Barabasi-Albert
+Barab\'{a}si-Albert
 model,
 and
 the

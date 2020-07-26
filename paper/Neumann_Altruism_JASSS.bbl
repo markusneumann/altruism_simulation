@@ -7,14 +7,14 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem[{Abbot et~al.(2011)Abbot, Abe, Alcock, Alizon, Alpedrinha, Andre,
-  Baalen, Balloux \& Balshine}]{Abbot2013}
-Abbot, P., Abe, J., Alcock, J., Alizon, S., Alpedrinha, J. A.~C., Andre, J.-b.,
-  Baalen, M.~V., Balloux, F. \& Balshine, S. (2011).
+\bibitem[{Abbot et~al.(2011)Abbot, Abe, Alcock, Alizon, Alpedrinha, Andersson,
+  Andre, Van~Baalen, Balloux, Balshine et~al.}]{Abbot2013}
+Abbot, P., Abe, J., Alcock, J., Alizon, S., Alpedrinha, J.~A., Andersson, M.,
+  Andre, J.-B., Van~Baalen, M., Balloux, F., Balshine, S. et~al. (2011).
 \newblock {Inclusive fitness theory and eusociality}.
 \newblock \textit{Nature}, \textit{471}(7339).
-\newblock \doi{10.1038/nature09831.Inclusive}
-\newline\urlprefix\url{http://dx.doi.org/10.1038/nature09831.Inclusive}
+\newblock \doi{10.1038/nature09831}
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nature09831}
 
 \bibitem[{Axelrod \& Hamilton(1981)}]{Axelrod1981}
 Axelrod, R. \& Hamilton, W.~D. (1981).
@@ -30,7 +30,7 @@ Axelrod, R., Hammond, R.~A. \& Grafen, A. (2004).
 \bibitem[{Barab{\'{a}}si \& Albert(1999)}]{barabasi1999}
 Barab{\'{a}}si, A.-L. \& Albert, R. (1999).
 \newblock {Emergence of Scaling in Random Networks}.
-\newblock \textit{Science}, \textit{286}(October), 509--512.
+\newblock \textit{Science}, \textit{286}(5439), 509--512.
 \newblock \doi{10.1126/science.286.5439.509}
 \newline\urlprefix\url{http://dx.doi.org/10.1126/science.286.5439.509}
 
@@ -178,7 +178,7 @@ Mohtashemi, M. \& Mui, L. (2003).
 \bibitem[{Nowak(2006)}]{Nowak2006a}
 Nowak, M.~A. (2006).
 \newblock {Five rules for the evolution of cooperation.}
-\newblock \textit{Science (New York, N.Y.)}, \textit{314}(5805), 1560--1563.
+\newblock \textit{Science}, \textit{314}(5805), 1560--1563.
 \newblock \doi{10.1126/science.1133755}
 \newline\urlprefix\url{http://dx.doi.org/10.1126/science.1133755}
 
@@ -188,6 +188,12 @@ Nowak, M.~A. \& Sigmund, K. (1998).
 \newblock \textit{Nature}, \textit{393}(6685), 573--577.
 \newblock \doi{Doi 10.1038/31225}
 \newline\urlprefix\url{http://dx.doi.org/Doi 10.1038/31225}
+
+\bibitem[{Okasha(2013)}]{samir2009}
+Okasha, S. (2013).
+\newblock Biological altruism.
+\newblock In E.~N. Zalta (Ed.), \textit{The Stanford Encyclopedia of
+  Philosophy}. Metaphysics Research Lab, Stanford University, fall 2013 edn.
 
 \bibitem[{Peleteiro et~al.(2014)Peleteiro, Burguillo \& Chong}]{Peleteiro2014}
 Peleteiro, A., Burguillo, J.~C. \& Chong, S.~Y. (2014).
@@ -222,12 +228,6 @@ Salazar, N., Rodriguez-Aguilar, J.~A., Arcos, J.~L., Peleteiro, A. \&
   Multiagent Systems-Volume 2}, (pp. 669--676)
 \newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=2031713}
 
-\bibitem[{Samir(2013)}]{samir2009}
-Samir, O. (2013).
-\newblock \textit{{Biological Altruism. The Stanford Encyclopedia of
-  Philosophy.}}
-\newblock Edward Zalta, winter 200 edn.
-
 \bibitem[{Santos \& Pacheco(2005)}]{Santos2005}
 Santos, F.~C. \& Pacheco, J.~M. (2005).
 \newblock {Scale-free networks provide a unifying framework for the emergence
@@ -248,8 +248,8 @@ Santos, F.~C., Rodrigues, J.~F. \& Pacheco, J.~M. (2006).
 \bibitem[{Santos et~al.(2008)Santos, Santos \& Pacheco}]{Santos2008}
 Santos, F.~C., Santos, M.~D. \& Pacheco, J.~M. (2008).
 \newblock {Social diversity promotes the emergence of cooperation in public
-  goods games.}
-\newblock \textit{Nature}, \textit{454}(7201), 213--6.
+  goods games}.
+\newblock \textit{Nature}, \textit{454}(7201), 213--216.
 \newblock \doi{10.1038/nature06940}
 \newline\urlprefix\url{http://dx.doi.org/10.1038/nature06940}
 
@@ -326,7 +326,7 @@ Wilson, D.~S. \& Sober, E. (1994).
 \bibitem[{Wu et~al.(2005)Wu, Xu \& Wang}]{Wu2005}
 Wu, Z.-X., Xu, X.-J. \& Wang, Y.-H. (2005).
 \newblock {Does the scale-free topology favor the emergence of cooperation?}
-\newblock \textit{arXiv permanent}, \textit{physics.so}
-\newline\urlprefix\url{http://arxiv.org/abs/physics/0508220v2{\%}5Cnpapers3://publication/uuid/4E0293D0-D9B9-403F-BB0F-39BB63554796}
+\newblock \textit{arXiv preprint physics}
+\newline\urlprefix\url{https://arxiv.org/abs/physics/0508220}
 
 \end{thebibliography}
